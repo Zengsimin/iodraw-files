@@ -310,8 +310,11 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-98" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="295" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-99" value="&lt;font color=&quot;#ffffff&quot;&gt;大模型SWOT分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005e99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="350" width="130" height="45" as="geometry" />
+        <mxCell id="lRhTlxSFR04uxXrhXssq-100" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="360" width="650" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-101" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;2.大模型分析阶段&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="287.5" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
