@@ -274,7 +274,16 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-68" value="关键词" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1740" y="200.63" width="50" height="31.25" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="lRhTlxSFR04uxXrhXssq-49" target="lRhTlxSFR04uxXrhXssq-49">
+        <mxCell id="lRhTlxSFR04uxXrhXssq-70" value="" style="endArrow=none;html=1;rounded=0;strokeColor=none;" edge="1" parent="1" source="lRhTlxSFR04uxXrhXssq-49" target="lRhTlxSFR04uxXrhXssq-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1610" y="210" as="sourcePoint" />
+            <mxPoint x="1660" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1860" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-71" value="" style="endArrow=none;html=1;rounded=0;shape=link;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1610" y="210" as="sourcePoint" />
             <mxPoint x="1660" y="160" as="targetPoint" />
