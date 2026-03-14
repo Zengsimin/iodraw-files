@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="K4SuEAKIHJXqOx4dA394">
-    <mxGraphModel dx="934" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,16 +308,16 @@
           <mxGeometry x="1600" y="277.5" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-95" value="识别要素(S,W,O,T)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="270" width="160" height="20" as="geometry" />
+          <mxGeometry x="1650" y="270" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-96" value="生成说明" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="295" width="160" height="20" as="geometry" />
+          <mxGeometry x="1650" y="295" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-97" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="270" width="20" height="20" as="geometry" />
+          <mxGeometry x="1650" y="270" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-98" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="295" width="20" height="20" as="geometry" />
+          <mxGeometry x="1650" y="295" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-101" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;3.大模型策略生成阶段&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1210" y="387.5" width="160" height="30" as="geometry" />
@@ -332,10 +332,10 @@
           <mxGeometry x="1530" y="334" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-105" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="392.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="1650" y="392.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-106" value="生成策略组合(SO,WO,ST,WT)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="387.5" width="236" height="30" as="geometry" />
+          <mxGeometry x="1650" y="387.5" width="236" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-109" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1590" y="372.5" width="40" height="20" as="geometry" />
