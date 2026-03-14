@@ -34,9 +34,6 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-10" value="优势 Strengths" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="81" y="792" width="164" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="255" width="480" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-11" value="劣势 Weaknesses" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="295" y="792" width="181" height="49" as="geometry" />
         </mxCell>
@@ -303,6 +300,9 @@
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-95" value="识别要素(S,W,O,T)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;" vertex="1" parent="1">
           <mxGeometry x="1650" y="270" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="1385" y="255" width="480" height="190" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-96" value="生成说明" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;" vertex="1" parent="1">
           <mxGeometry x="1650" y="295" width="160" height="20" as="geometry" />
