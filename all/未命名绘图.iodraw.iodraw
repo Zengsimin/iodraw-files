@@ -242,7 +242,10 @@
           <mxGeometry x="1190" y="130" width="640" height="130" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1.输入阶段&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="1190" y="175" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-51" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
