@@ -370,8 +370,8 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="lRhTlxSFR04uxXrhXssq-102" target="lRhTlxSFR04uxXrhXssq-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-121" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="700" width="60" height="80" as="geometry" />
+        <mxCell id="lRhTlxSFR04uxXrhXssq-121" value="结果存储" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="460" width="85" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
