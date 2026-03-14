@@ -382,6 +382,9 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-124" value="&lt;font color=&quot;#ffffff&quot;&gt;版本差异分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005e99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1470" y="580" width="130" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lRhTlxSFR04uxXrhXssq-118" target="lRhTlxSFR04uxXrhXssq-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
