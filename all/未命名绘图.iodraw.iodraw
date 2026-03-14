@@ -247,8 +247,8 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-51" value="项目构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-52" value="项目构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="175" width="120" height="60" as="geometry" />
+        <mxCell id="lRhTlxSFR04uxXrhXssq-52" value="输入基础信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="165" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
