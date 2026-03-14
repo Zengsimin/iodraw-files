@@ -256,12 +256,6 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-59" value="输入基础信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="172.5" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.815;exitY=0.231;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lRhTlxSFR04uxXrhXssq-49" target="lRhTlxSFR04uxXrhXssq-49">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1730" y="205" as="sourcePoint" />
-            <mxPoint x="1700" y="204.57" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-63" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="165" width="20" height="20" as="geometry" />
         </mxCell>
@@ -279,6 +273,12 @@
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-68" value="关键词" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1740" y="200.63" width="50" height="31.25" as="geometry" />
+        </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1610" y="210" as="sourcePoint" />
+            <mxPoint x="1660" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
