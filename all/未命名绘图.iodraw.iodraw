@@ -302,7 +302,7 @@
           <mxGeometry x="1597" y="277.5" width="70" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-95" value="识别要素(S,W,O,T)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="270" width="160" height="20" as="geometry" />
+          <mxGeometry x="1640" y="271" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-96" value="生成说明" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;align=center;" vertex="1" parent="1">
           <mxGeometry x="1640" y="300" width="160" height="20" as="geometry" />
@@ -311,7 +311,7 @@
           <mxGeometry x="1640" y="270" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-98" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="295" width="20" height="20" as="geometry" />
+          <mxGeometry x="1640" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-102" value="&lt;font color=&quot;#ffffff&quot;&gt;大模型策略生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005e99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1470" y="380" width="130" height="45" as="geometry" />
