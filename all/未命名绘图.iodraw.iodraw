@@ -278,7 +278,7 @@
           <mxGeometry x="1720" y="215" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-68" value="关键词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="205" width="110" height="30" as="geometry" />
+          <mxGeometry x="1720" y="197.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
