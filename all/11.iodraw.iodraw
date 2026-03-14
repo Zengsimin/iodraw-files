@@ -163,7 +163,7 @@
           <mxGeometry x="1604" y="460" width="110" height="82" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-127" value="用户输入可以比较不同版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1501" y="551" width="410" height="30" as="geometry" />
+          <mxGeometry x="1499" y="542" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
