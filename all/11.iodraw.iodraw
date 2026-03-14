@@ -95,7 +95,7 @@
           <mxGeometry x="1640" y="397.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-106" value="生成策略组合(SO,WO,ST,WT)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1644" y="392.5" width="230" height="30" as="geometry" />
+          <mxGeometry x="1646" y="392.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-109" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1590" y="372.5" width="40" height="20" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-123" value="创造新版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="506" width="90" height="30" as="geometry" />
+          <mxGeometry x="1708" y="506" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-124" value="版本差异分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0c72b0;strokeColor=#36393d;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1470" y="580" width="130" height="45" as="geometry" />
