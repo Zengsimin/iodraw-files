@@ -121,9 +121,6 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-114" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;4.结果管理阶段&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1204" y="443.5" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-115" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1194" y="516" width="700" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-116" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;5.版本比对阶段&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1204" y="543.5" width="160" height="30" as="geometry" />
         </mxCell>
