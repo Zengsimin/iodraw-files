@@ -290,7 +290,7 @@
           <mxGeometry x="1190" y="250" width="690" height="85" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="255" width="480" height="155" as="geometry" />
+          <mxGeometry x="1385" y="255" width="485" height="185" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-90" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;2.大模型分析阶段&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="277.5" width="140" height="30" as="geometry" />
@@ -333,6 +333,9 @@
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-106" value="生成策略组合(SO,WO,ST,WT)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1670" y="387.5" width="236" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-109" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="267.5" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
