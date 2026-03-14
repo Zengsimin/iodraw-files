@@ -242,7 +242,7 @@
           <mxGeometry x="1190" y="150" width="650" height="85" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-50" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;1.输入阶段&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="175" width="120" height="40" as="geometry" />
+          <mxGeometry x="1190" y="175" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-51" value="项目构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="172.5" width="130" height="45" as="geometry" />
