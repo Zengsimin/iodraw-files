@@ -335,7 +335,7 @@
           <mxGeometry x="1650" y="392.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-106" value="生成策略组合(SO,WO,ST,WT)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="387.5" width="236" height="30" as="geometry" />
+          <mxGeometry x="1650" y="387.5" width="236" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-109" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1590" y="372.5" width="40" height="20" as="geometry" />
