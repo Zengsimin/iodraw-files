@@ -247,7 +247,7 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-51" value="项目构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="172.5" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-58" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lRhTlxSFR04uxXrhXssq-76">
+        <mxCell id="lRhTlxSFR04uxXrhXssq-58" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1720" y="195" as="sourcePoint" />
             <mxPoint x="1690" y="194.57" as="targetPoint" />
@@ -283,14 +283,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-77" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lRhTlxSFR04uxXrhXssq-76">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1720" y="195" as="sourcePoint" />
-            <mxPoint x="1690" y="194.57" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-76" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="172.5" width="10" height="50" as="geometry" />
+        <mxCell id="lRhTlxSFR04uxXrhXssq-76" value="" style="line;strokeWidth=2;direction=south;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="170" width="10" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
