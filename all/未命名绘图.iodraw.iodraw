@@ -319,6 +319,9 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-102" value="&lt;font color=&quot;#ffffff&quot;&gt;大模型策略生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005e99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1470" y="380" width="130" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lRhTlxSFR04uxXrhXssq-92" target="lRhTlxSFR04uxXrhXssq-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
