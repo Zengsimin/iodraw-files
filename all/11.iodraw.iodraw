@@ -10,9 +10,6 @@
         <mxCell id="fmqCmoeHmHfTArPaArCp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1190" y="250" width="700" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-100" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="360" width="700" height="85" as="geometry" />
-        </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1190" y="157" width="700" height="75" as="geometry" />
         </mxCell>
@@ -159,6 +156,9 @@
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-127" value="用户输入可以比较不同版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1494" y="608" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmqCmoeHmHfTArPaArCp-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="260" width="700" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
