@@ -55,9 +55,6 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;endArrow=none;endFill=0;" parent="1" source="lRhTlxSFR04uxXrhXssq-59" target="lRhTlxSFR04uxXrhXssq-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-89" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="263" width="700" height="71" as="geometry" />
-        </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#2f61a7;dashed=1;dashPattern=1 1;strokeWidth=2;glass=0;shadow=0;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="1380" y="255" width="490" height="185" as="geometry" />
         </mxCell>
@@ -161,7 +158,7 @@
           <mxGeometry x="1490" y="610" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fmqCmoeHmHfTArPaArCp-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="167" width="700" height="75" as="geometry" />
+          <mxGeometry x="1200" y="82" width="700" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
