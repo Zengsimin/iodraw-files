@@ -376,7 +376,7 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="lRhTlxSFR04uxXrhXssq-118" target="lRhTlxSFR04uxXrhXssq-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-123" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lRhTlxSFR04uxXrhXssq-123" value="创造新版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="515" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
