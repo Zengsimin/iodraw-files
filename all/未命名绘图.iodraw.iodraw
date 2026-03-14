@@ -277,12 +277,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-76" value="" style="line;strokeWidth=1;direction=south;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="175" width="10" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-78" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="190.63" width="20" height="10" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
