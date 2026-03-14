@@ -326,10 +326,10 @@
           <mxGeometry x="1530" y="334" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-105" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="174.06" width="20" height="20" as="geometry" />
+          <mxGeometry x="1654" y="392.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-106" value="分析描述" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="169.06" width="70" height="30" as="geometry" />
+        <mxCell id="lRhTlxSFR04uxXrhXssq-106" value="生成策略组合(SO,WO,ST,WT)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1674" y="387.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
