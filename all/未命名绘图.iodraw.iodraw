@@ -347,10 +347,10 @@
           <mxGeometry x="1200" y="277.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-101" value="&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;3.大模型策略生成阶段&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="387.5" width="160" height="30" as="geometry" />
+          <mxGeometry x="1200" y="387.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-114" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;4.结果管理阶段&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="487.5" width="160" height="30" as="geometry" />
+          <mxGeometry x="1200" y="487.5" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
