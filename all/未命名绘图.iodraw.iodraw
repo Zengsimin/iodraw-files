@@ -250,8 +250,11 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-52" value="输入基础信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-55" value="" style="shape=stencil(lVfLbhsxDPwaXwlJ1POcpv8RIE5t1I0Dx339fbldaLOkvNP6tpY5EjkcktKOH94PT2/7XXDv18v56/7n8fl62PGnXQjH18P+crzK144fd/zwcr7sv1zO31+f599vT5Pl9PXt/GPa4deMYwppAgX3e15IlZr7u/J5tj8dX1f28m/W9o0csPeJolOA7Mn5bUDwlJsGMKUKAIVy1QA5M24DOFA1gEy5AEAhThbg8jYgemJzQqQCWIrpRtAoDSkMgGXlNqD0/VaJdiBo8djpGOKS+9uASl5LI0rQIA9F8sAKwJkCyHRpncQOCBHGUBMlDfCZImCpyX7aJd93uG0vSgvK3sFqaNmG7KgCTptw6jVF1JD/jbzev0GCxL7oJEu9JuCQd0uASw5C32PzCC0L8alhgBGeyCKCjiEkuaiFt9TfVhaKrmdRKiNaE7GmVQrWI5ckTeYEpogSEXqpLEE3yqB4mh+KZ9HuFoC1VKVxBhSDt6PBS+IwIBuAVDiiNVDU0si9M2+xmnTTC5SQQ5GaJtVRQJxm4mzsGe1fhn5EBQvV5KyQx9WcdfV7hg2yLZW1OCQRoIhbT9BKFBmpqNlRKLKLqONV2yFF2C1AUoMmVUoHunQvoFbbwmQUFpCHKrU2zH8GJ5RiS6dgl2QUmsTJrEsgceJA0NKoIkbQYKZrmgZ8zKKtG0Yxo9Dh4SY9sWpeRS0BHBGHhjHNr7QNmC5izQLQfOalQaxPADSJ/E2nF3kxkGsYuqQMi4wmaCJnYmB4Nxxu3NI2kTSGG73YI+2FPphW9h7s760umoP+ezvOpf7QsHX9ArLYp95zNuy95lPKtUB7U/1SrRX4P9pzZ+D//MkNdpchXqltNBUGPuWpcFe+soOFP+hBWgfK170vyH/by8fHc/XleDrNr931//Z5K0vz05gf/wA=);lineShape=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1656.6495712718056" y="184.15321850153077" width="54.0030273129275" height="10.490182723057606" as="geometry" />
+        <mxCell id="lRhTlxSFR04uxXrhXssq-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="200" as="sourcePoint" />
+            <mxPoint x="1530" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
