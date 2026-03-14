@@ -292,8 +292,8 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-92" value="&lt;font color=&quot;#ffffff&quot;&gt;大模型SWOT分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1470" y="270" width="130" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="lRhTlxSFR04uxXrhXssq-93" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="lRhTlxSFR04uxXrhXssq-93" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
