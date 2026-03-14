@@ -296,7 +296,7 @@
           <mxGeometry x="1470" y="270" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-93" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="257.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="1590" y="258" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-94" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1597" y="277.5" width="70" height="32.5" as="geometry" />
@@ -323,10 +323,10 @@
           <mxGeometry x="1530" y="334" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-105" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="392.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="1640" y="397.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-106" value="生成策略组合(SO,WO,ST,WT)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="387.5" width="230" height="30" as="geometry" />
+          <mxGeometry x="1644" y="392.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-109" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1590" y="372.5" width="40" height="20" as="geometry" />
