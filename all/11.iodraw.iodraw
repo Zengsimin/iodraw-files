@@ -157,6 +157,9 @@
         <mxCell id="lRhTlxSFR04uxXrhXssq-127" value="用户输入可以比较不同版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1490" y="610" width="410" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bDmhdX0WzHsQv9hn76ZG-2" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1061" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
