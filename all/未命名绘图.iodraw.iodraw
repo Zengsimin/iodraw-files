@@ -266,7 +266,7 @@
           <mxGeometry x="1720" y="165" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-64" value="分析描述" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="160" width="70" height="30" as="geometry" />
+          <mxGeometry x="1740" y="160" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-65" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="185" width="20" height="20" as="geometry" />
@@ -278,7 +278,7 @@
           <mxGeometry x="1720" y="206.25" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-68" value="关键词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="201.25" width="70" height="30" as="geometry" />
+          <mxGeometry x="1740" y="201.25" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
