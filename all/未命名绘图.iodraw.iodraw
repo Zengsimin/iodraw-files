@@ -272,13 +272,13 @@
           <mxGeometry x="1720" y="177.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-66" value="分析主题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="180" width="110" height="30" as="geometry" />
+          <mxGeometry x="1730" y="172.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-67" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="215" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-68" value="关键词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="210" width="110" height="30" as="geometry" />
+          <mxGeometry x="1710" y="205" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
