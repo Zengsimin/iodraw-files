@@ -314,7 +314,10 @@
           <mxGeometry x="1190" y="360" width="650" height="85" as="geometry" />
         </mxCell>
         <mxCell id="lRhTlxSFR04uxXrhXssq-101" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;3.大模型策略生成阶段&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="387.5" width="140" height="30" as="geometry" />
+          <mxGeometry x="1210" y="387.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRhTlxSFR04uxXrhXssq-102" value="&lt;font color=&quot;#ffffff&quot;&gt;大模型SWOT分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005e99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="280" width="130" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
